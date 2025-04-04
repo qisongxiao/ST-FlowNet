@@ -1,7 +1,7 @@
 # ST-FlowNet
 The datasets of ST-FlowNet
 
-Link: [Google Drive](https://drive.google.com/drive/folders/17Cb_m0PWFT9aHYFfUC5WJth7vtEd1vTV?usp=sharing)
+📌 *The paper is currently under review. The datasets will be released as soon as the paper is accepted.*
 
 ## Single-condition Hydrofoil Dataset
 - **naca0015_mach_0.003_aoa_10.0_re_1000_samples_1500.npz**: NACA0015 hydrofoil, with 1500 time steps, angle of attack 10°, Mach number 0.003, and Reynolds number 1000. The chord length of the hydrofoil is 1 meter.
